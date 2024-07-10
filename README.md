@@ -8,13 +8,7 @@
 
 ##
 
-- 🌱 I’m currently learning **Framewoks e Python**
-
-- 🤝 I’m looking for help with [Discord.bot]((botar link))
-
-- 👨‍💻 All of my projects are available at [potifolio](potifolio)
-
-- 📫 How to reach me **Sp.oliveira010@outlook.com**
+....
 
 ##
 
