@@ -7,8 +7,14 @@
 </div>
 
 ##
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=saaxzq&show_icons=true&count_private=true&hide_border=true&title_color=805ad5&icon_color=805ad5&text_color=c9d1d9&bg_color=0d1117&custom_title=GitHub%20Stats%20(A%2B)" alt="Vinicius's GitHub stats"/>
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saaxzq&layout=compact&hide_border=true&title_color=805ad5&text_color=805ad5&bg_color=0d1117" alt="Vinicius's Top Languages"/>
+</div>
 
-....
+##
+
+TEST TEST
 
 ##
 
@@ -32,3 +38,4 @@
 </div>
 
 ##
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=652AA8&section=footer"/>
