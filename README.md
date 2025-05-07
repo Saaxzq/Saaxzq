@@ -110,4 +110,5 @@ Me chamo Sara Oliveira, sou apaixonada por tecnologia e estou cursando Análise 
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaraOliveira&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
+
 </p>
