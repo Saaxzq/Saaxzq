@@ -1,18 +1,18 @@
-# 👩🏻‍💻 Sara Oliveira
+# 👩🏻‍💻 Sara Patricio
 
 **`Desenvolvedora FullStack`**
 
-Me chamo Sara Oliveira, sou apaixonada por tecnologia e estou cursando Análise e Desenvolvimento de Sistemas. Busco sempre aprimorar meus conhecimentos e aprender novas linguagens e frameworks para criar soluções criativas e funcionais.
+Sou Sara Patricio, estudante de Análise e Desenvolvimento de Sistemas e formada em Técnico em Informática, com foco em desenvolvimento web e back-end. Tenho experiência prática com Python (Flask) para criação de APIs e aplicações web, além de trabalhar com HTML5, CSS3 (com responsividade utilizando Bulma/Tailwind), JavaScript e React.js no front-end. Meus projetos aplicam testes automatizados com unittest, manipulação de dados com JSON, controle de versão com Git/GitHub, e seguem princípios de código limpo e modularidade. Estou em constante evolução, buscando aprimorar habilidades em desenvolvimento full stack e boas práticas de engenharia de software.
 
 <p align="left">
-    <a href="https://github.com/SaraOliveira">
+    <a href="https://github.com/Saaxzq">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
             src="https://custom-icon-badges.demolab.com/github/stars/Saaxzq?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/SaraOliveira?tab=followers">
+    <a href="https://github.com/Saaxzq?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
