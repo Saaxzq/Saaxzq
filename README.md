@@ -87,7 +87,7 @@ Sou Sara Patricio, estudante de Análise e Desenvolvimento de Sistemas e formada
 
 ### 📊 Estatísticas
 
-<table>
+<table border="0">
   <tr>
     <td>
       <img 
@@ -105,4 +105,5 @@ Sou Sara Patricio, estudante de Análise e Desenvolvimento de Sistemas e formada
     </td>
   </tr>
 </table>
+
 
