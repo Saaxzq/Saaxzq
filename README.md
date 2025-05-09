@@ -99,7 +99,8 @@ Sou Sara Patricio, estudante de Análise e Desenvolvimento de Sistemas e formada
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="100" 
+      height="200" 
+      style="padding-right: 10px;"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saaxzq&theme=material-palenight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
