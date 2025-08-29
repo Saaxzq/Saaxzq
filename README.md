@@ -93,19 +93,18 @@ Sou Sara Patricio, estudante de Análise e Desenvolvimento de Sistemas e formada
       <td>
         <img 
           alt="GitHub Stats" 
-          height="200" 
-          src="https://github-readme-stats.vercel.app/api?username=Saaxzq&show_icons=true&theme=buefy&include_all_commits=true&locale=pt-br&card_width=450" 
+          width="490" 
+          src="https://github-readme-stats.vercel.app/api?username=Saaxzq&show_icons=true&theme=buefy&include_all_commits=true&locale=pt-br&hide_border=true&card_width=450" 
         />
       </td>
       <td>
         <img 
           alt="Top Langs" 
-          height="200" 
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saaxzq&theme=buefy&layout=compact&custom_title=Tecnologias&langs_count=9&card_width=450" 
+          width="490" 
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saaxzq&theme=buefy&layout=compact&custom_title=Tecnologias&langs_count=9&hide_border=true&card_width=450" 
         />
       </td>
     </tr>
   </table>
 </div>
-
 
