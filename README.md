@@ -1,8 +1,23 @@
-# 👩🏻‍💻 Sara Patricio
+### Olá, eu sou a Sara Patricio (Sasa.Tech) 👋
 
-**`Desenvolvedora FullStack`**
+Estudante de Análise e Desenvolvimento de Sistemas, Técnica em Informática e focada na minha transição de carreira para a área de tecnologia.
 
-Sou Sara Patricio, estudante de Análise e Desenvolvimento de Sistemas e formada em Técnico em Informática, com foco em desenvolvimento web e back-end. Tenho experiência prática com Python (Flask) para criação de APIs e aplicações web, além de trabalhar com HTML5, CSS3 (com responsividade utilizando Bulma/Tailwind), JavaScript e React.js no front-end. Meus projetos aplicam testes automatizados com unittest, manipulação de dados com JSON, controle de versão com Git/GitHub, e seguem princípios de código limpo e modularidade. Estou em constante evolução, buscando aprimorar habilidades em desenvolvimento full stack e boas práticas de engenharia de software.
+* 🎓 Atualmente cursando o **AWS re/Start (335h)**, um programa intensivo focado em **Cloud (AWS), Python, Linux e SQL**.
+* 👩‍💻 Atuo como **Técnica de Suporte (FUNCEB)**, onde resolvo problemas reais e desenvolvo **scripts de automação** para otimizar processos.
+* 🚀 Apaixonada por dados, desenvolvimento e como a tecnologia pode resolver problemas de negócio.
+
+---
+
+### 🔧 Meu Foco Técnico (Tech Stack)
+
+| Área | Tecnologias |
+| :--- | :--- |
+| ☁️ **Cloud & Infra** | AWS (EC2, S3, IAM, VPC), Linux, Segurança |
+| 🐍 **Backend & Dados** | Python, Flask, API REST, SQL (MySQL) |
+| ⚛️ **Frontend** | React.js, JavaScript (ES6+), HTML5, CSS3 (Tailwind, Bulma) |
+| ⚙️ **Ferramentas & Práticas** | Git, GitHub, VSCode, Testes (unittest), Código Limpo |
+
+---
 
 <p align="left">
     <a href="https://github.com/Saaxzq">
